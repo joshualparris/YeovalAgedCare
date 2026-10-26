@@ -7,6 +7,10 @@
 
 > **Status: research in progress; exact plan NOT located.** Do not mistake this repository for an as-built survey. There is currently **no verified, dimensioned whole-building floor plan, CAD file, building footprint polygon, roof survey or room-by-room measured plan** in these findings.
 
+## Outstanding research checklist (68 tasks)
+
+The complete, prioritised checklist of **methods and tools not yet fully attempted**, including official planning records, NSW aerial imagery, geospatial measurement, archives, permission pathways and reproducible modelling, is in **[UNTRIED_RESEARCH_METHODS_TODO.md](docs/UNTRIED_RESEARCH_METHODS_TODO.md)**. It explicitly separates unattempted work from the failed/blocked Cabonne browser task. All items are open as of 26 October 2026; none should be marked complete without actual evidence.
+
 ## Latest primary-source breakthrough — building work completed by 2014
 
 [UPA's 2014 annual report (printed p. 46)](https://www.upa.org.au/wp-content/uploads/2016/12/Annual-Report-2014.pdf.pdf) explicitly states the original two buildings already had a **permanent connection by 2014**, and **old interior walls were removed** to make the facility more open. A [first-hand account of the renovations](https://www.qpsbenchmarking.com/news/upa-yeoval-gaining-a-competitive-advantage-by-increasing-resident-satisfaction/) says **some rooms were demolished and replaced, and the dining room was rebuilt**. This is stronger than the later 2016 annual report's covered-walkway description. **Do not model an unchanged pre-2014 interior.** Whether the 2016 walkway mention describes the same connection or an additional improvement is unresolved.
