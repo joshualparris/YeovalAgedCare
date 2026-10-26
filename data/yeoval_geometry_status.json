@@ -1,0 +1,78 @@
+{
+  "name": "UPA Yeoval Aged Care",
+  "research_as_of": "2026-10-26",
+  "address": "3-7 Lord Street, Yeoval NSW 2868, Australia",
+  "survey_verified": false,
+  "complete_as_built_plan_found": false,
+  "architectural_status": "source-backed historical topology only; exterior surveyed dimensions unavailable",
+  "historic_geocoded_services": [
+    {
+      "name": "Hazelholme Hostel",
+      "address": "3-5 Lord Street, Yeoval NSW 2868",
+      "allocated_places_2017": 17,
+      "lat": -32.75030022,
+      "lon": 148.6498586,
+      "coordinate_type": "government provider geocode; NOT building footprint"
+    },
+    {
+      "name": "Yeoval Community Nursing Home",
+      "address": "1 Lord Street, Yeoval NSW 2868",
+      "allocated_places_2017": 10,
+      "lat": -32.75028137,
+      "lon": 148.6504726,
+      "coordinate_type": "government provider geocode; NOT building footprint"
+    }
+  ],
+  "total_places_2017": 27,
+  "total_places_advertised_recent": 25,
+  "public_room_types": [
+    {
+      "description": "Standard shared accommodation category",
+      "listed_area_m2": 26,
+      "length_m": null,
+      "width_m": null,
+      "source": "My Aged Care; provider-entered"
+    }
+  ],
+  "architecture": {
+    "wing_count_historical": 2,
+    "connecting_covered_walkway": {
+      "built_by_year": 2016,
+      "length_m": null,
+      "width_m": null,
+      "route": null
+    },
+    "netherwood_western_wing": {
+      "named": true,
+      "six_bed_reopening_proposed": true,
+      "completion_verified": false
+    },
+    "footprint_polygon": null,
+    "footprint_area_m2": null,
+    "parcel_area_m2": null,
+    "total_width_m": null,
+    "total_length_m": null,
+    "building_height_m": null,
+    "roof_pitch_deg": null,
+    "rooms_layout": null,
+    "door_positions": null
+  },
+  "possible_parcel_lead": {
+    "address": "1 Lord Street",
+    "lot": 6,
+    "section": 12,
+    "deposited_plan": "DP759140",
+    "applies_to_entire_complex": "UNVERIFIED",
+    "source": "https://www.allhomes.com.au/1-lord-street-yeoval-nsw-2868"
+  },
+  "public_source_urls": [
+    "https://www.upa.org.au/wp-content/uploads/2016/12/Annual-Report-2012.pdf",
+    "https://www.upa.org.au/wp-content/uploads/2016/12/Annual-Report-2016.pdf",
+    "https://www.upa.org.au/wp-content/uploads/2018/10/UPA_AR2018_v_WEB.pdf",
+    "https://www.upa.org.au/wp-content/uploads/2019/04/Western-Region-Mail-April-May-2019.pdf",
+    "https://www.upa.org.au/wp-content/uploads/2022/10/Annual-Report-2022.pdf",
+    "https://www.gen-agedcaredata.gov.au/getmedia/62731781-470e-48ef-886c-b4a379ee8f8b/Australia_Service_List_2017.pdf",
+    "https://www.myagedcare.gov.au/sites/default/files/attachments/25/2-1X3TIX25.pdf",
+    "https://cabonne.greenlightopm.com/search-register?deptName=Development"
+  ]
+}
