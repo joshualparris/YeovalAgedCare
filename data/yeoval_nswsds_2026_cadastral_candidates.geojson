@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "name": "UPA Yeoval candidate Lord St cadastral lots from provider geocodes; NOT surveyed roof/building footprints",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "lotidstring": "6/12/DP759140",
+        "cadid": 102274021,
+        "source": "NSW Spatial Services NSW_Land_Parcel_Property_Theme FeatureServer layer 8 (Lot)",
+        "source_url": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Land_Parcel_Property_Theme/FeatureServer/8/query?where=cadid%20IN%20(102274229%2C102274021)&outFields=lotidstring%2Clotnumber%2Csectionnumber%2Cplanlabel%2Ccadid&returnGeometry=true&outSR=4326&f=pjson",
+        "source_accessed": "2026-10-26",
+        "source_point_relation": "2017 Yeoval Community Nursing Home provider geocode intersects parcel",
+        "area_geodesic_m2": 1630.32,
+        "perimeter_geodesic_m": 167.75,
+        "edge_lengths_m": [
+          33.62,
+          51.2,
+          31.22,
+          51.71
+        ],
+        "IMPORTANT": "Intersection with geocoded service point does not prove current site ownership nor complete facility footprint. Area is calculated from polygon not official deposited-plan area."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.65071302387676,
+              -32.7505008709883
+            ],
+            [
+              148.6503545275818,
+              -32.750511870326356
+            ],
+            [
+              148.6502321871462,
+              -32.75006189646851
+            ],
+            [
+              148.6505651443376,
+              -32.750051677146985
+            ],
+            [
+              148.65071302387676,
+              -32.7505008709883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "lotidstring": "2//DP613049",
+        "cadid": 102274229,
+        "source": "NSW Spatial Services NSW_Land_Parcel_Property_Theme FeatureServer layer 8 (Lot)",
+        "source_url": "https://portal.spatial.nsw.gov.au/server/rest/services/NSW_Land_Parcel_Property_Theme/FeatureServer/8/query?where=cadid%20IN%20(102274229%2C102274021)&outFields=lotidstring%2Clotnumber%2Csectionnumber%2Cplanlabel%2Ccadid&returnGeometry=true&outSR=4326&f=pjson",
+        "source_accessed": "2026-10-26",
+        "source_point_relation": "2017 Hazelholme Hostel provider geocode intersects parcel",
+        "area_geodesic_m2": 4342.94,
+        "perimeter_geodesic_m": 274.22,
+        "edge_lengths_m": [
+          91.19,
+          50.29,
+          21.13,
+          6.38,
+          54.02,
+          51.2
+        ],
+        "IMPORTANT": "Intersection with geocoded service point does not prove current site ownership nor complete facility footprint. Area is calculated from polygon not official deposited-plan area."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              148.6503545275818,
+              -32.750511870326356
+            ],
+            [
+              148.649382141711,
+              -32.750541729173435
+            ],
+            [
+              148.64936271676586,
+              -32.75008855490569
+            ],
+            [
+              148.64958808048988,
+              -32.750081643809544
+            ],
+            [
+              148.64965608969425,
+              -32.75007956424758
+            ],
+            [
+              148.6502321871462,
+              -32.75006189646851
+            ],
+            [
+              148.6503545275818,
+              -32.750511870326356
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
