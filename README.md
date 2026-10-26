@@ -7,6 +7,14 @@
 
 > **Status: research in progress; exact plan NOT located.** Do not mistake this repository for an as-built survey. There is currently **no verified, dimensioned whole-building floor plan, CAD file, building footprint polygon, roof survey or room-by-room measured plan** in these findings.
 
+## Latest primary-source breakthrough — building work completed by 2014
+
+[UPA's 2014 annual report (printed p. 46)](https://www.upa.org.au/wp-content/uploads/2016/12/Annual-Report-2014.pdf.pdf) explicitly states the original two buildings already had a **permanent connection by 2014**, and **old interior walls were removed** to make the facility more open. A [first-hand account of the renovations](https://www.qpsbenchmarking.com/news/upa-yeoval-gaining-a-competitive-advantage-by-increasing-resident-satisfaction/) says **some rooms were demolished and replaced, and the dining room was rebuilt**. This is stronger than the later 2016 annual report's covered-walkway description. **Do not model an unchanged pre-2014 interior.** Whether the 2016 walkway mention describes the same connection or an additional improvement is unresolved.
+
+The [2019 Yeoval manager's report (p. 6)](https://www.upa.org.au/wp-content/uploads/2019/04/Western-Region-Mail-April-May-2019.pdf) additionally confirms an **Acacia Room**, GP practice rooms and a turfed back garden. None gives exact room coordinates or sizes.
+
+For the still-missing survey and drawings, see [ready-to-send requests to UPA and Cabonne Council](docs/REQUEST_FOR_ORIGINAL_PLANS.md).
+
 ## Important discoveries
 
 1. **Two originally separate buildings / wings.** UPA's **2012 annual report, printed p. 42 (PDF p. 44)** says a site plan of the existing buildings had been made to guide refurbishment and that connecting *two buildings* was a primary aim. This establishes that a historical plan existed, **not** that it is freely downloadable. [UPA 2012 annual report](https://www.upa.org.au/wp-content/uploads/2016/12/Annual-Report-2012.pdf).
