@@ -37,10 +37,13 @@
   "architecture": {
     "wing_count_historical": 2,
     "connecting_covered_walkway": {
-      "built_by_year": 2016,
+      "built_by_year": null,
       "length_m": null,
       "width_m": null,
-      "route": null
+      "route": null,
+      "permanent_building_link_documented_by_year": 2014,
+      "covered_walkway_documented_in_report_year": 2016,
+      "construction_phase_2014_vs_2016": "unresolved: could refer to same works"
     },
     "netherwood_western_wing": {
       "named": true,
@@ -55,7 +58,20 @@
     "building_height_m": null,
     "roof_pitch_deg": null,
     "rooms_layout": null,
-    "door_positions": null
+    "door_positions": null,
+    "documented_2014_interior_alterations": {
+      "removed_interior_walls": true,
+      "demolished_and_replaced_some_rooms": true,
+      "dining_room_completely_redone": true,
+      "specific_floorplan_dimensions": null
+    },
+    "documented_2019_facilities": {
+      "acacia_community_room": true,
+      "gp_practice_rooms": true,
+      "rear_garden_turf": true,
+      "wheelchair_access_to_upa_bus": true,
+      "layout_or_room_dimensions": null
+    }
   },
   "possible_parcel_lead": {
     "address": "1 Lord Street",
@@ -74,5 +90,10 @@
     "https://www.gen-agedcaredata.gov.au/getmedia/62731781-470e-48ef-886c-b4a379ee8f8b/Australia_Service_List_2017.pdf",
     "https://www.myagedcare.gov.au/sites/default/files/attachments/25/2-1X3TIX25.pdf",
     "https://cabonne.greenlightopm.com/search-register?deptName=Development"
-  ]
+  ],
+  "historical_capacity_notes": {
+    "beds_2014": 28,
+    "listed_2017": 27,
+    "contemporary_advertised": 25
+  }
 }
